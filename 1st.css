@@ -1,0 +1,25 @@
+body{
+    width: 100px;
+    height: 100vh;
+    background-image:url(IPL.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+div{
+    border: solid;
+    border-end-end-radius: 150px;
+    border-color: black;
+    align-items: center;   
+}
+pre{
+    text-align: center;
+}
+h1{
+    text-align: top;
+    height: 100px;
+    width: 250px;
+    text-emphasis-position: top;
+
+}
