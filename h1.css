@@ -1,11 +1,11 @@
 .header{
     background-color: aqua;
-    height: 200px;
+    height: 250px;
     display: flex;
     justify-content: space-between;
     padding: 0 20px;
 align-items: center;
-border-bottom: solid 7px rgba(13, 13, 0, 0.919);
+border: solid 5px rgba(13, 13, 0, 0.919);
 }
 .left,.right{
     font-size: 70px;
@@ -13,4 +13,7 @@ border-bottom: solid 7px rgba(13, 13, 0, 0.919);
     list-style: none;
     justify-content: center;
     gap: 80px;
+}
+body{
+    background-color: rgba(231, 227, 103, 0.771);
 }
